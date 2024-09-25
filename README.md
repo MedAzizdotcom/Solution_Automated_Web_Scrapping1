@@ -1,0 +1,1 @@
+This notebook demonstrates web scraping techniques using Selenium and AutoScraper to extract plant-related data from gardening websites. It covers tool setup, user input handling, and efficiently scraping single or multiple pages, including pagination for large collections of plant data.
